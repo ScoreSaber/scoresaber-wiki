@@ -170,7 +170,6 @@ For any game mode in a mapset with a difficulty going for rank:
 - Difficulty naming must follow a common theme relating to the song or map, unless the difficulty names are abbreviations of the default Beat Saber difficulty names.
 - If there are multiple difficulties with similar relative difficulty, the difficulty names must share a commonality that indicates that they are of the same relative difficulty.
 - Difficulty names must not be so long that they overlap with other UI elements.
-- Difficulty names must not exceed 30 characters in length.
 - Difficulty names must not solely consist of one or more usernames. Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 
 #### F. DAT Editing
