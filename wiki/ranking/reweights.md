@@ -48,3 +48,33 @@
 [⭐ Star Reweight Changes - 16 January 2024](./reweights/2024/January-2024.md)
 
 ### 2023
+
+[⭐ Star Reweight Changes - 15 December 2023](./reweights/2023/December-2023.md)
+
+[⭐ Star Reweight Changes - 13 November 2023](./reweights/2023/November-2023.md)
+
+[⭐ Star Reweight Changes - 11 October 2023](./reweights/2023/October-2023.md)
+
+[⭐ Star Reweight Changes - 9 September 2023](./reweights/2023/September-2023.md)
+
+[⭐ Star Reweight Changes - 8 August 2023](./reweights/2023/August-2023.md)
+
+[⭐ Star Reweight Changes - 27 June 2023](./reweights/2023/June-2023.md)
+
+[⭐ Global Reweight - Star Reweight Changes - 21 May 2023](./reweights/2023/Global-May-2023.md)
+
+[⭐ Star Reweight Changes - 3 April 2023](./reweights/2023/April-2023.md)
+
+[⭐ Star Reweight Changes - 3 March 2023](./reweights/2023/March-2023.md)
+
+[⭐ Star Reweight Changes - 1 February 2023](./reweights/2023/February-2023.md)
+
+### 2022
+
+[⭐ Star Reweight Changes - 23 December 2022](./reweights/2022/December-2022.md)
+
+[⭐ Star Reweight Changes - 26 October 2022](./reweights/2022/October-2022.md)
+
+[⭐ Star Reweight Changes - 20 September 2022](./reweights/2022/September-2022.md)
+
+[⭐ Star Reweight Changes - 11 August 2022](./reweights/2022/August-2022.md)
