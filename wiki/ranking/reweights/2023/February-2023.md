@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 1 February 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Eviternity | Expert+ | AlphaComplex | ⭐ 12.32 → ⭐ 12.4 |
 | Eviternity | Expert | AlphaComplex | ⭐ 12.13 → ⭐ 12.08 |

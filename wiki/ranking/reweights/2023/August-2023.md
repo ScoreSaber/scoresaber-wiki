@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 8 August 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Howl in the Night Sky | Expert+ | Bitz & Joshabi | ⭐ 12.91 → ⭐ 12.93 |
 | BLACKLOTUS | Expert+ | Aimedhades16 & ThySpoon | ⭐ 12.76 → ⭐ 12.77 |

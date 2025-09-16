@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 18 February 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | 666 | Expert+ | ComplexFrequency & Narwhal | ⭐ 12.84 → ⭐ 13.02 |
 | SswwiinnddlleerR!! | Expert+ | abcbadq | ⭐ 12.76 → ⭐ 13.11 |

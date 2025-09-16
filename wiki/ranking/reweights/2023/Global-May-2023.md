@@ -1,6 +1,6 @@
 # ⭐ Global Reweight - Star Reweight Changes - 21 May 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Ov Sacrament and Sincest | Expert+ | Rogdude | ⭐ 12.45 → ⭐ 12.19 |
 | When I use it | Expert+ | Astrella & Timbo | ⭐ 12.44 → ⭐ 12.36 |

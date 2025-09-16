@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 3 April 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | FINAL PHASE | Expert+ | Hades, Daan, Josh & Aqua | ⭐ 11.96 → ⭐ 12.79 |
 | Last Wish | Expert+ | BSWC Team | ⭐ 11.76 → ⭐ 12.16 |

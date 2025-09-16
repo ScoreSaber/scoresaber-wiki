@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 16 January 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Finale Battle of the Requiem | Expert+ | Komeijisan051 | ⭐ 11.11 → ⭐ 11.71 |
 | BPM | Expert+ | Astellic | ⭐ 10.72 → ⭐ 10.69 |

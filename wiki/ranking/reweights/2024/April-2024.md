@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 26 April 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Dimension Wars | Expert+ | Hades, Daan, Josh & Aqua | ⭐ 13.12 → ⭐ 13.48 |
 | ΩΩPARTS | Expert+ | Aimedhades16 | ⭐ 13.06 → ⭐ 13.61 |

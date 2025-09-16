@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 23 December 2022
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Electromagnetic Stealth Girl Born In Philadelphia | Expert | Aimedhades16 & Lobster | ⭐ 12.67 → ⭐ 11.95 |
 | Electromagnetic Stealth Girl Born In Philadelphia | Expert+ | Aimedhades16 & Lobster | ⭐ 12.18 → ⭐ 11.74 |

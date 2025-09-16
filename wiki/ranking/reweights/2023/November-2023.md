@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 13 November 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Luminency | Expert+ | Fnyt | ⭐ 12.48 → ⭐ 12.52 |
 | Valhalla:0 | Expert+ | Aquaflee | ⭐ 10.94 → ⭐ 12.15 |

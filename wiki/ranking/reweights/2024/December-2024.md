@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 30 November 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Simulated Reality | Expert+ | Bitz, Joshabi & WalkingKat | ⭐ 13.37 → ⭐ 13.68 |
 | DESTRUCTION 3,2,1 | Expert+ | Helloiamdaan, Bitz & Aquaflee | ⭐ 13.31 → ⭐ 13.62 |

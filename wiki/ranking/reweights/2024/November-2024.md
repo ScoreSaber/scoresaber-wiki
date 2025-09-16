@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 6 November 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | No Fear, No Despair, With All My Hearts | Expert+ | Aquaflee | ⭐ 12.76 → ⭐ 12.81 |
 | No Fear, No Despair, With All My Hearts | Expert | Aquaflee | ⭐ 11.37 → ⭐ 10.02 |

@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 9 February 2025
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Simulated Reality | Expert+ | Bitz, Joshabi & WalkingKat | ⭐ 14.18 → ⭐ 14.58 |
 | DESTRUCTION 3,2,1 | Expert+ | Helloiamdaan, Bitz & Aquaflee | ⭐ 14.0 → ⭐ 14.26 |

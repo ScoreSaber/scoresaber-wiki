@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 9 September 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Vicious Heroism | Expert+ | ComplexFrequency | ⭐ 13.06 → ⭐ 12.76 |
 | Howl in the Night Sky | Expert+ | Bitz & Joshabi | ⭐ 12.93 → ⭐ 12.94 |

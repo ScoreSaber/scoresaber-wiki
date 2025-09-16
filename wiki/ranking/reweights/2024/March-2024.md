@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 18 March 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Dystopian Exodus of the Magical Girls | Expert+ | abcbadq | ⭐ 12.96 → ⭐ 12.99 |
 | Destroy, Destroy, Destroy The Happy End | Expert+ | Marsh & Gabriel | ⭐ 11.33 → ⭐ 11.08 |

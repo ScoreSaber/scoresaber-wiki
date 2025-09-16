@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 11 August 2025
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Secret Malware | Expert | abcbadq, helloiamdaan | ⭐ 13.53 → ⭐ 13.59 |
 | Extreme Music School 1st period | Expert+ | Jabob | ⭐ 12.77 → ⭐ 12.42 |

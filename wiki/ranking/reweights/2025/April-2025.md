@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 13 April 2025
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Returning | Expert+ | Helloiamdaan & Aquaflee | ⭐ 12.92 → ⭐ 12.82 |
 | Medicine | Expert+ | The Pharmacists | ⭐ 12.56 → ⭐ 12.57 |

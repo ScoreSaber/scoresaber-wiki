@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 2 September 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Flamewall | Expert+ | Fish Nation | ⭐ 12.39 → ⭐ 12.31 |
 | Agapitos | Expert+ | Bitz & Lobster | ⭐ 11.72 → ⭐ 12.14 |

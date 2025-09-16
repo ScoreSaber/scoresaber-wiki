@@ -1,6 +1,6 @@
 # ⭐ Star Reweight Changes - 3 March 2023
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Diastrophism | Expert+ | abcbadq | ⭐ 11.79 → ⭐ 12.14 |
 | Lowermost revolt | Expert+ | muffn | ⭐ 9.95 → ⭐ 10.34 |

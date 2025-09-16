@@ -1,6 +1,6 @@
 # ⭐ Global Reweight - Star Reweight Changes - 2 August 2024
 
-| <div style="width:325px">Map</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
+| <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
 | Aegleseeker | Expert+ | Aimedhades16 & Bitz | ⭐ 12.76 → ⭐ 12.81 |
 | Fractured Angel | Expert+ | abcbadq | ⭐ 12.71 → ⭐ 12.86 |
