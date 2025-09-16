@@ -1,7 +1,8 @@
 # Reweights
 
-
 ## Reweights per batch
+
+This page contains all reweights since the release of monthly batches in 2022. Click on the hyperlinks to get redirected to the reweights of that month!
 
 ### 2025
 
